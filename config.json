@@ -1,0 +1,10 @@
+{
+  "usuario": "Pedro Henrique",
+  "setor": "TI",
+  "template": "{greeting}, meu nome é {nome}, sou do setor de {setor}, recebi sua solicitação",
+  "horarios": {
+    "manha": [7, 12),
+    "tarde": [12, 18),
+    "noite": [18, 7)
+  }
+}
